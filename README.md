@@ -16,7 +16,7 @@ History
 
   While the Grassroots Invention Group is no longer in the Media Lab, The Center for Bits and Atoms consortium is still actively involved in continuing research in areas related to description and fabrication but does not operate or maintain any of the labs worldwide (with the excmobile fab lab). The fab lab concept also grew out of a popular class at MIT (MAS.863) named "How To Make (Almost) Anything". The class is still offered in the fall semesters.
 
-  Syllabus
+ # Syllabus
   ========
   
  1. Indroduction To Fablab
